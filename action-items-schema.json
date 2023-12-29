@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Project Management Data",
+  "description": "A schema for representing summary, action items, blockers, and backlog items in a project management context",
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "object",
+      "properties": {
+        "projectTitle": { "type": "string" },
+        "projectDescription": { "type": "string" },
+        "currentPhase": { "type": "string" },
+        "overallStatus": { "type": "string" }
+      },
+      "required": ["projectTitle", "projectDescription", "currentPhase", "overallStatus"]
+    }
+  },
+  "required": ["summary"]
+}

@@ -1,0 +1,34 @@
+```json
+{
+    "blockers": [
+        {
+            "description": "No response from Dante to text messages and emails.",
+            "date": "2023-12-07"
+        }
+    ],
+    "action_items": [
+        {
+            "description": "Check the shared Google Spreadsheet for updates and comments.",
+            "assigned_to": "@U06370GMA8M",
+            "due_date": "2023-12-06",
+            "status": "In Progress"
+        },
+        {
+            "description": "Review and address comments on the sales agreement.",
+            "assigned_to": "@U0632FR834N and @U0636B1UJQ5",
+            "due_date": "2023-12-06",
+            "status": "In Progress"
+        },
+        {
+            "description": "Attempt to get a response from Dante by visiting the office if no response by tomorrow.",
+            "assigned_to": "Unspecified",
+            "due_date": "2023-12-08",
+            "status": "Pending"
+        }
+    ],
+    "summary_of_project": {
+        "description": "The team is collaborating on a project that involves Dante, who has not been responding to text messages or emails. The team has discussed scheduling and confirming meetings, as well as a review of a sales agreement that is being worked on. A shared Google Spreadsheet is being used to track progress and information. Plans may include a visit to the office if communication with Dante does not improve by the next day.",
+        "last_update": "2023-12-07"
+    }
+}
+```

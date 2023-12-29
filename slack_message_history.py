@@ -88,5 +88,6 @@ def get_message_history():
 
   return messages_info
 
-if __name__ == "__main__":
+# export get_message_history to be used in testAgent.py
+if __name__ == '__main__':
   get_message_history()
